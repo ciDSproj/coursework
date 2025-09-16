@@ -16,7 +16,7 @@ for data visualization.
 
 **2. Linear Regression prediction of House Prices**
 <br>
-The project includes selecting the features and building the initial model. This model was further improved by applying 
+The assignment includes selecting the features and building the initial model. This model was further improved by applying 
 feature engineering and regularization techniques, like Lasso and Ridge regression. The models were compared using evaluation
 metrics. For data cleaning and preprocessing are used NumPy and Pandas, and Sklearn and Statsmodels for building the models.
 
