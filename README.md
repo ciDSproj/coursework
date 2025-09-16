@@ -3,8 +3,10 @@
 Below are presented several assignments I worked on while studying for obtaining the Certificate in Data Science from UW Professional & Continuing Education, 2021.
 The coursework covers topics like Advanced Data Analysis, Hypothesis Testing, Linear & Logistic Regression, Time Series Analysis, Advanced Machine Learning, Ensemble Learning, Neural Networks and Deep Learning.
 
-**1. EDA and Hypothesis Simulation for House Prices**
 
+
+**1. EDA and Hypothesis Simulation for House Prices**
+<br>
 This project contains Exploratory Data Analysis of the house dataset which includes data cleaning, visual exploration and 
 investigatating summary statistics. This allowed drawing insights regarding various factors that influence a home’s price.
 It also covers Hypothesis Simulation that includes computing summary statistics and confidence intervals by classical 
