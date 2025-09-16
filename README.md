@@ -30,7 +30,7 @@ libraries.
 
 **4. Sentiment Analysis Classification with NLP**
 <br>
-In this assignment was built a sentiment analysis classifier for a series of tweets. It was performed text cleaning and 
+In this assignment it was built a sentiment analysis classifier for a series of tweets. It was performed text cleaning and 
 preparation, generated word clouds for both positive and negative sentiments, and built a model that classifies the sentiment 
 of a sentence. It is done in Python and uses NumPy and Pandas libraries for data manipulation, NLTK libraries for 
 text analysis, and sklearn for building the model.
