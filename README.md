@@ -56,7 +56,7 @@ For this assignment it is used the Keras Reuters newswire topics dataset to buil
 article or newswire. There were built and compared three different models using RNN (Recurrent Neural Network-LTSM(Long Short-Term Memory). 
 For building the RNN-LTSM models are used TensorFlow and Keras libraries.
 
-**Capstone Project**
+**Final Capstone Project**
 <br>
 The capstone project uses a dataset for semiconductor manufacturing. The dataset is cleaned and prepared, data visually 
 explored and analyzed. It is also applied feature selection to reduce dimensionality of data. Inially were built and evaluated 
