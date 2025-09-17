@@ -28,13 +28,6 @@ residual components. The analysis includes finding the best parameters for the A
 forecast production for the last 12 months of the data. The project is done in Python and uses NumPy, Pandas and Matplotlib 
 libraries.
 
-**Sentiment Analysis Classification with NLP**
-<br>
-In this assignment it was built a sentiment analysis classifier for a series of tweets. It was performed text cleaning and 
-preparation, generated word clouds for both positive and negative sentiments, and built a model that classifies the sentiment 
-of a sentence. It is done in Python and uses NumPy and Pandas libraries for data manipulation, NLTK libraries for 
-text analysis, and sklearn for building the model.
-
 **Ensemble Models-Random Forest Classifier**
 <br>
 This project covers data preprocessing and exploratory analysis for a targeted marketing campaign. For classifying the 
