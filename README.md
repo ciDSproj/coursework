@@ -45,9 +45,9 @@ evaluating the models.
 
 **6. Image Identification with CNN**
 <br>
-In this project I built a machine learning model that can identify the objects in images. The model has the capability 
-to search for 10 objects. To improve the model's accuracy it was adjusted the number of layers and the activation function, then
-compared the results. NumPy and Pandas libraries were used for preparing and exploring the data, and TensorFlow and Keras 
+In this project I built a machine learning model that can identify the objects in images. It is used the CIFAR-10 dataset and the model 
+has the capability to search for 10 objects. To improve the model's accuracy it was adjusted the number of layers and the activation 
+function, then compared the results. NumPy and Pandas libraries were used for preparing and exploring the data, and TensorFlow and Keras 
 for building the neural network model.
 
 **7. Topic Identification with RNN and LTSM**
